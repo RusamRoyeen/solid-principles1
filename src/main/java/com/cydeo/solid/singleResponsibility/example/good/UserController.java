@@ -9,7 +9,7 @@ public class UserController {
 
     }
     public static String createResponse(){
-        return "Response";
+        return "Response"; // For example "User is created"
     }
 
     public static void sendResponse(){
