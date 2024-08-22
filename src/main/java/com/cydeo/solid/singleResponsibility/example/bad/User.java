@@ -13,6 +13,7 @@ public class User {
         return flag;
     }
 
+
     public static boolean authenticate() {
         boolean flag = false;
         // Implementation for authentication.
